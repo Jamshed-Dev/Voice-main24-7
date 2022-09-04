@@ -1,4 +1,4 @@
-# Voicecord
+# Voice 24-7
 Make your discord account 24/7 online on voice channels!
 
 ----
